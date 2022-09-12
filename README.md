@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aryanshuk
-- 👀 I’m interested in AI/ML.
-- 🌱 I’m currently learning Computer Vision using Python
+
 - 📫 How to reach me - Drop a mail @ aryanshuk8084@gmail.com
 
 <!---
